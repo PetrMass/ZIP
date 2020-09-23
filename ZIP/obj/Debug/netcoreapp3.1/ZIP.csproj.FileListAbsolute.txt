@@ -1,0 +1,11 @@
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.exe
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.deps.json
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.runtimeconfig.json
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.runtimeconfig.dev.json
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.dll
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\bin\Debug\netcoreapp3.1\ZIP.pdb
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\obj\Debug\netcoreapp3.1\ZIP.csprojAssemblyReference.cache
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\obj\Debug\netcoreapp3.1\ZIP.AssemblyInfoInputs.cache
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\obj\Debug\netcoreapp3.1\ZIP.AssemblyInfo.cs
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\obj\Debug\netcoreapp3.1\ZIP.dll
+C:\Users\ssv-vs\source\repos\ZIP\ZIP\obj\Debug\netcoreapp3.1\ZIP.pdb
